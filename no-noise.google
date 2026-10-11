@@ -1,0 +1,16 @@
+! name: No RRSS & No low-quality content
+! description: Remove social networks, forums and low-quality content from results
+! author: loopzen-code
+! public: false
+
+! No RRSS
+$discard,site=facebook.com
+$discard,site=instagram.com
+$discard,site=x.com
+$discard,site=twitter.com
+$discard,site=tiktok.com
+$discard,site=linkedin.com
+$discard,site=pinterest.com
+$discard,site=reddit.com
+$discard,site=quora.com
+$discard,site=threads.net

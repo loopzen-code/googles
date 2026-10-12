@@ -14,3 +14,16 @@ $discard,site=pinterest.com
 $discard,site=reddit.com
 $discard,site=quora.com
 $discard,site=threads.net
+
+! No Noise
+$discard,site=hola.com
+$discard,site=eleconomista.es
+$discard,site=okdiario.com
+$discard,site=milanuncios.com
+$discard,site=elfarodeceuta.es
+$discard,site=lavanguardia.com
+$discard,site=abc.es
+$discard,site=20minutos.es
+$discard,site=xataka.com
+$discard,site=xatakamovil.com
+$discard,site=xatakandroid.com

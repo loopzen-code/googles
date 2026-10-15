@@ -11,7 +11,6 @@ $discard,site=twitter.com
 $discard,site=tiktok.com
 $discard,site=linkedin.com
 $discard,site=pinterest.com
-$discard,site=reddit.com
 $discard,site=quora.com
 $discard,site=threads.net
 
